@@ -1,5 +1,6 @@
 # password-generator
-##Description 
+## Description 
+
 In this project my aim was to build a random password generator using JavaScript. My main goals were to
 - Have a series of prompts asking about the password prefrences 
 - Have a responsive UI 
